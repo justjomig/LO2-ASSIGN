@@ -27,7 +27,7 @@ html= `
         <li>Job: ${job} </li>
         <li>City: ${city} </li>
         <li>${ 4 + 3 } </li>
-        <li>${hey()} </li>
+        <li>${hi()} </li>
         <li> ${age > 100 ? 'Over 100' : "Under 100"} </li>
         </ul>
     `;
